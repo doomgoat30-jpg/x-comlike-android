@@ -1,0 +1,6 @@
+[application]
+config/name="XCOMlike Starter"
+run/main_scene="res://scenes/Main.tscn"
+
+[rendering]
+renderer/rendering_method="mobile"
